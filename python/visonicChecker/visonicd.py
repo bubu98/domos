@@ -20,12 +20,10 @@
 # Bruno Garnier
 
 
-# -*- coding: iso-8859-1 -*-
 # vi:ts=4:et
 #%retab! 
 #set noexpandtab 
 #set tabstop=2
-# $Id: basicfirst.py,v 1.5 2005/02/11 11:09:11 mfx Exp $
 
 import sys
 import pycurl
