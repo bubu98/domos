@@ -1,0 +1,4 @@
+domos
+=====
+
+scripts : house automation
